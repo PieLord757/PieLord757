@@ -1,95 +1,78 @@
-# Hey there, I'm Shiva Pochampally👋
+# Hey there, I'm Shiva 👋
 
-<!--
-**PieLord757/PieLord757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Data Engineer | Building real-world intelligent systems**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**Building AI-powered systems, data-driven applications, and end-to-end intelligent products.**
+I build end-to-end AI systems that turn messy data into usable intelligence — from RAG pipelines to full-stack applications deployed in the cloud.
 
 ---
 
-## About Me
+### Tech Stack
 
-I'm a Computer Science & Data Science student at Virginia Tech focused on building real-world AI/ML systems and scalable data products. My work spans LLM applications, RAG systems, full-stack engineering, and cloud infrastructure.
-
-I enjoy taking ideas from concept → production, especially in areas involving intelligent automation, financial systems, and applied machine learning.
-
----
-
-## Tech Stack
-
-### AI / ML  
+**AI / ML**  
 LLMs, Agentic Workflows, RAG, LangChain, Vector Databases, OCR Pipelines, PyTorch  
 
-### Backend  
+**Backend**  
 FastAPI, Flask, Node.js, AWS (EC2, Lambda, S3, DynamoDB, Aurora, SNS), Docker  
 
-### Data  
-Pandas, NumPy, SQL, PostgreSQL, Snowflake, Data Pipelines, Structured & Unstructured Data  
-
-### Frontend  
-React, TypeScript, Next.js, TailwindCSS  
-
-### Tools  
-Git, Supabase, Google Cloud Run, MongoDB, Databricks  
+**Data**  
+Pandas, NumPy, SQL, PostgreSQL, Snowflake, Structured & Unstructured Data  
 
 ---
 
 ## Featured Projects
 
 ### Guidelytics  
-Full-stack RAG platform for querying user-uploaded documents with natural language  
-- Flask + React + Supabase + pgvector  
-- Semantic search with embeddings  
-- Multi-format ingestion (PDF, DOCX, YouTube)  
+**Full-stack RAG platform for document Q&A**
+
+End-to-end system that allows users to query uploaded documents using natural language.
+
+**Key features**
+- Semantic search with vector embeddings (pgvector)  
+- Multi-format ingestion (PDF, DOCX, TXT, YouTube)  
+- Real-time ingestion + chat interface  
+- Supabase auth + Google Cloud Run deployment  
+
+---
 
 ### Dime (HackViolet Winner)  
-Real-time credit card optimization system  
-- Transaction ingestion + reward optimization  
-- iMessage-based AI agent for receipt parsing  
-- Snowflake + Gemini integration  
+**Real-time credit card optimization system**
+
+System that recommends the best credit card at checkout based on rewards and transaction context.
+
+**Key features**
+- Receipt ingestion via iMessage agent (Photon)  
+- LLM-powered transaction extraction (Gemini)  
+- Backend API for reward optimization logic  
+- Snowflake-powered analytics + categorization  
+
+---
 
 ### YouTube Q&A Extension  
-Chrome extension for asking questions about videos  
-- Transcript-based LLM answering  
-- Multi-model backend (Gemini + Groq)  
-- Conversational memory system  
+**Ask questions about any video in real time**
+
+Chrome extension that enables transcript-grounded LLM responses directly on YouTube.
+
+**Key features**
+- Multi-model support (Gemini + Groq)  
+- Conversational memory across queries  
+- Flask backend + extension service worker architecture  
+- Real-time transcript retrieval + processing  
+
+---
 
 ### Atlas (Codefest Winner)  
-AI-powered hotel management + itinerary system  
-- Full-stack system with vector search  
-- Google APIs + LLM integrations  
-- Real-time interactive UI  
+**AI-powered hotel and travel planning system**
 
----
+Full-stack platform for hotel management and AI-driven itinerary generation.
 
-## Links
-
-- Portfolio: https://sathwik.com  
-- LinkedIn: https://www.linkedin.com/in/shivapochampally  
-- GitHub Projects: (add repo links here)
-
----
-
-## What I'm Focused On
-
-- AI Agents & LLM Systems  
-- Retrieval-Augmented Generation (RAG)  
-- Scalable Data + Cloud Architectures  
-- Building production-ready ML systems  
+**Key features**
+- LLM-based itinerary generation (Gemini)  
+- Google Maps + Places API integration  
+- Real-time interactive UI with persistent state  
+- Vector + document-based search system  
 
 ---
 
 ## Contact
 
-shivapochampally@vt.edu  
+- Email: shivapochampally@vt.edu  
