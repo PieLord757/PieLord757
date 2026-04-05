@@ -2,7 +2,7 @@
 
 **AI Engineer | Data Engineer | Building real-world intelligent systems**
 
-I build end-to-end AI systems that turn messy data into usable intelligence — from RAG pipelines to full-stack applications deployed in the cloud.
+I build end-to-end AI systems that turn messy data into usable intelligence: from RAG pipelines to full-stack applications deployed in the cloud.
 
 ---
 
